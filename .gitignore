@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+build/
+pubspec.lock
+example/build/
+example/.dart_tool/
+*.iml
+.idea/
+
+# FVM Version Cache
+.fvm/
