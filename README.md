@@ -14,6 +14,26 @@ edit if needed. Every icon slot (prefix, suffix, the password toggle, the
 suggestion row icon) can independently be an **icon or an image** — your
 choice, per field, per slot.
 
+## Demo
+
+### Location search
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandeepflutter1999/smart_location_field/main/screenshots/location_search.gif" width="300" alt="Location search demo" />
+  <img src="https://raw.githubusercontent.com/sandeepflutter1999/smart_location_field/main/screenshots/location.png" width="300" alt="Location search suggestions" />
+</p>
+
+### Validation (email / password)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandeepflutter1999/smart_location_field/main/screenshots/validation.gif" width="300" alt="Validation demo" />
+  <img src="https://raw.githubusercontent.com/sandeepflutter1999/smart_location_field/main/screenshots/email_password.png" width="300" alt="Email and password field" />
+</p>
+
+### Outlined style
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandeepflutter1999/smart_location_field/main/screenshots/style_outlined.gif" width="300" alt="Outlined style demo" />
+  <img src="https://raw.githubusercontent.com/sandeepflutter1999/smart_location_field/main/screenshots/style_outlined.png" width="300" alt="Outlined style field" />
+</p>
+
 ## Install
 
 Add it as a path or git dependency in your app's `pubspec.yaml`:
@@ -244,4 +264,3 @@ a valid homepage or repository URL to publish. Also confirm the `smart_api`
 dependency resolves correctly for whoever installs this package — a public
 pub.dev consumer won't have access to a private git/path source unless you
 adjust it.)
-# smart_location_field

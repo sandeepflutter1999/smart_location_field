@@ -4,8 +4,21 @@ description: >
   to country-only, state-only, or city-only results (or normal location search), with a pluggable API
   layer so you can route calls through your own network service.
 version: 0.3.0
-homepage: https://example.com/smart_location_field
-# repository: https://github.com/your-org/smart_location_field
+homepage: https://github.com/sandeepflutter1999/smart_location_field
+repository: https://github.com/sandeepflutter1999/smart_location_field
+issue_tracker: https://github.com/sandeepflutter1999/smart_location_field/issues
+
+screenshots:
+  - description: 'Location search suggestions'
+    path: screenshots/location.png
+  - description: 'Location search demo'
+    path: screenshots/location_search.gif
+  - description: 'Email and password validation'
+    path: screenshots/validation.gif
+  - description: 'Email and password fields'
+    path: screenshots/email_password.png
+  - description: 'Outlined style field'
+    path: screenshots/style_outlined.png
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -19,6 +32,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^4.0.0
+  flutter_lints: ^6.0.0
 
 flutter:

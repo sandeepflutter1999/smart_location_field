@@ -1,5 +1,6 @@
 ## 0.3.0
 
+- Added demo screenshots and GIFs (`screenshots/`) to README and pub.dev.
 - Bumped to `smart_api: ^1.1.1`. Calls now use `SmartApiClient.instance.get`
   (the old wiring pointed at a class/method that doesn't exist, which was
   the compile error).
