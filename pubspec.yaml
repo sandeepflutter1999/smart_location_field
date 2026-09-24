@@ -1,12 +1,16 @@
 name: smart_location_field
-description: >
-  A TextFormField that can double as a Google Places search box, restrictable
-  to country-only, state-only, or city-only results (or normal location search), with a pluggable API
-  layer so you can route calls through your own network service.
-version: 0.3.0
+description: "A TextFormField that doubles as a Google Places search box: country, state, city or normal location search, with suggestions and lat/lng."
+version: 0.3.1
 homepage: https://github.com/sandeepflutter1999/smart_location_field
 repository: https://github.com/sandeepflutter1999/smart_location_field
 issue_tracker: https://github.com/sandeepflutter1999/smart_location_field/issues
+
+topics:
+  - location
+  - google-places
+  - autocomplete
+  - textfield
+  - forms
 
 screenshots:
   - description: 'Location search suggestions'

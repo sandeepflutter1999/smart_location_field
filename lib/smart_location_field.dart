@@ -2,6 +2,6 @@
 /// box — restrictable to country-only, state-only, or city-only results, or a
 /// normal unrestricted location search — with all network calls routed
 /// through `smart_api`.
-library smart_location_field;
+library;
 
 export 'src/smart_location_field_widget.dart';
