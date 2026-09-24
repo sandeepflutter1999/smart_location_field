@@ -1,4 +1,9 @@
+
 ## 0.3.1
+
+- Shortened the pubspec description to fit pub.dev's 60–180 character guideline.
+
+## 0.3.0
 
 - Added demo screenshots and GIFs (`screenshots/`) to README and pub.dev.
 - Bumped to `smart_api: ^1.1.1`. Calls now use `SmartApiClient.instance.get`
